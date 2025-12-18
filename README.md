@@ -17,6 +17,8 @@ tabular and deep reinforcement learning methods.
 - Deep Q-Network (Gymnasium Environment)
 
 ## How to Run
+### 1. Prerequisites
+Make sure Python 3.9+ is installed along with required libraries:
 
 ### Custom Environment (Q-Learning)
 ```bash
